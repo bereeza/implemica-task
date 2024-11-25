@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 /**
  * The problem uses Catalan numbers to solve task.
- * Catalam numbers count the N situation of valid sequences
+ * Catalan numbers count the N situation of valid sequences
  */
 public class CatalanNumber {
 
